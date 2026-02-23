@@ -1,7 +1,8 @@
 # Cloud-Deployment-Pipeline-Vagrant-to-AWS-via-Docker
 I have successfully built, containerized, and deployed a web application, moving from a local virtualized environment to a live cloud infrastructure on AWS.
-🎯 Project Objective
-The goal was to create a reproducible workflow that ensures an application runs identically on a developer's local machine and a production cloud server.
+
+
+🎯 Project Objective : The goal was to create a reproducible workflow that ensures an application runs identically on a developer's local machine and a production cloud server.
 
 🛠 Tech Stack
 Infrastructure: AWS (EC2, VPC, Security Groups)
